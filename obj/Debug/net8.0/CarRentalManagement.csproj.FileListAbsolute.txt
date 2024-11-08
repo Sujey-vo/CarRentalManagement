@@ -1,0 +1,14 @@
+/home/ubuntu/CarRentalManagement/bin/Debug/net8.0/CarRentalManagement
+/home/ubuntu/CarRentalManagement/bin/Debug/net8.0/CarRentalManagement.deps.json
+/home/ubuntu/CarRentalManagement/bin/Debug/net8.0/CarRentalManagement.runtimeconfig.json
+/home/ubuntu/CarRentalManagement/bin/Debug/net8.0/CarRentalManagement.dll
+/home/ubuntu/CarRentalManagement/bin/Debug/net8.0/CarRentalManagement.pdb
+/home/ubuntu/CarRentalManagement/obj/Debug/net8.0/CarRentalManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/CarRentalManagement/obj/Debug/net8.0/CarRentalManagement.AssemblyInfoInputs.cache
+/home/ubuntu/CarRentalManagement/obj/Debug/net8.0/CarRentalManagement.AssemblyInfo.cs
+/home/ubuntu/CarRentalManagement/obj/Debug/net8.0/CarRentalManagement.csproj.CoreCompileInputs.cache
+/home/ubuntu/CarRentalManagement/obj/Debug/net8.0/CarRentalManagement.dll
+/home/ubuntu/CarRentalManagement/obj/Debug/net8.0/refint/CarRentalManagement.dll
+/home/ubuntu/CarRentalManagement/obj/Debug/net8.0/CarRentalManagement.pdb
+/home/ubuntu/CarRentalManagement/obj/Debug/net8.0/CarRentalManagement.genruntimeconfig.cache
+/home/ubuntu/CarRentalManagement/obj/Debug/net8.0/ref/CarRentalManagement.dll
